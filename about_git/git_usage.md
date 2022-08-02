@@ -7,3 +7,7 @@ $ git add .
 
 $ git commit -m "your comment"
 $ git log
+
+
+
+$ git branch <branch-name>
